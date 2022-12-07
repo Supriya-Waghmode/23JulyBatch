@@ -2,7 +2,7 @@ package Hello;
 
 public class Testing {
 	public static void main(String[] args) {
-		int a=50;
+		int a=20;
 		char b='A';
 		String c="Welcome";
 		
